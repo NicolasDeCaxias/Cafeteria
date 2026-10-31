@@ -101,16 +101,6 @@ El script ejecuta 16 pruebas automáticas y muestra el estado HTTP y la respuest
 
 También se incluye el archivo `pruebas.http` con las mismas peticiones, para usar con la extensión *REST Client* de VS Code, Postman, Bruno o Thunder Client.
 
-### 📸 Capturas
-
-**Respuestas exitosas y de error al consultar y crear:**
-
-![Crear y errores](capturas/01-crear-y-errores.png)
-
-**Modificar y eliminar:**
-
-![Modificar y eliminar](capturas/02-modificar-y-eliminar.png)
-
 ---
 
 ## 📁 Estructura del proyecto
